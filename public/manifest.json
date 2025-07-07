@@ -1,0 +1,39 @@
+{
+  "name": "Заплањске приче",
+  "short_name": "Заплањске приче",
+  "description": "Блог посвећен чувању и преношењу традиције, културе и прича Заплањског краја",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e26d2d",
+  "orientation": "portrait-primary",
+  "categories": ["lifestyle", "education", "news"],
+  "lang": "sr",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/ZAPLANJE_1.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/ZAPLANJE_1.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Заплање - традиција и култура српског краја"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "scope": "/",
+  "id": "zaplanjske-price"
+}
